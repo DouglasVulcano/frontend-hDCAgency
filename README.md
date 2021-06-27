@@ -12,9 +12,8 @@ Esse projeto é um projeto Front-End elaborado para um empresa fictícia chamada
 ![Web 2](https://github.com/DouglasVulcano/images_portfolio/blob/main/hdagency/img2.JPG)
 
 ## Layout mobile
-![Web 3](https://github.com/DouglasVulcano/images_portfolio/blob/main/hdagency/img5-mobile.JPG)
+![Web 3](https://github.com/DouglasVulcano/images_portfolio/blob/main/hdagency/img5-mobile.JPG)![Web 4](https://github.com/DouglasVulcano/images_portfolio/blob/main/hdagency/img6-mobile.JPG)
 
-![Web 4](https://github.com/DouglasVulcano/images_portfolio/blob/main/hdagency/img6-mobile.JPG)
 
 ## Front-End
 - Bootstrap
